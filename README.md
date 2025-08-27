@@ -6,7 +6,7 @@ download and extract this zip file.
 ## STEP3: Copy below cmd in terminal.  
 ``` cmd
 cd react-learning
-npm i```
+npm i ```
 ``` cmd
 npm run dev```
   
